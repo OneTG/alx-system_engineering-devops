@@ -1,2 +1,2 @@
-echo 'Hello, World'
- 
+#!/bin/bash
+wc -l 0-hello_world > 'Hello, World'
